@@ -6,7 +6,7 @@ To use the program, run `main.py` and choose an option from the menu. The progra
 
 I wanted to make this project to get more practice with Python and learn how to connect a program to a relational database. I also wanted to get more comfortable writing SQL commands and using them to work with data.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XjfgSBMogM0)
 
 # Relational Database
 
